@@ -1,8 +1,13 @@
-# xDAI Bot Documentation
-
-![Image title](https://cl.ly/6d5b9bbbf689/Screen%20Shot%202019-02-27%20at%201.43.21%20AM.png)
-
-Let's build a xDAI bot for Discord. Easily send tips to your friends on Discord.
+---
+home: true
+heroImage: https://cl.ly/6d5b9bbbf689/Screen%20Shot%202019-02-27%20at%201.43.21%20AM.png
+features:
+- title: Easy to use
+  details: Simple and easy to use bot to send money to their friends on Discord.
+- title: Run with commands
+  details: Bot run on the commands you run.
+footer: MIT Licensed | Copyright © 2019-present The Studio
+---
 
 ### Commands
 
