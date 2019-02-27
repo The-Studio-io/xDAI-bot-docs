@@ -1,5 +1,5 @@
 module.exports = {
-  description: 'Documentation page for xDAI bot',
   dest: './dist'
   title: 'xDAI Bot',
+  description: 'Explore, learn and use xDAI bot',
 }
