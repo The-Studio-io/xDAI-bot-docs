@@ -5,6 +5,10 @@ set -e
 
 # delete old dist directory
 rm -rf dist
+
+# switch to gh-pages branch
+git checkout gh-pages
+
 # delete old dist directory
 rm -rf dist
 
@@ -14,7 +18,7 @@ vuepress build
 # navigate into the build output directory
 cd dist
 
-git checkout gh-pages
+# commit the build files
 git add .
 git commit -m 'deploy'
 
