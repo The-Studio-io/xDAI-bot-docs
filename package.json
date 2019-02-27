@@ -1,4 +1,5 @@
 {
+  "name": "xdai-bot-docs",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
