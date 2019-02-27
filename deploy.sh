@@ -4,16 +4,16 @@
 set -e
 
 # build
-npm run docs:build
+vuepress build
 
 # navigate into the build output directory
-cd docs/.vuepress/dist
+cd dist
 
-git init
-git add -A
+git checkout gh-pages
+git add .
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:The-Studio-io/xDAI-bot-docs.git master:gh-pages
+git push git@github.com:The-Studio-io/xDAI-bot-docs.git
 
 cd -
