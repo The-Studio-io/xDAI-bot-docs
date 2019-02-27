@@ -3,6 +3,11 @@
 # abort on errors
 set -e
 
+# delete old dist directory
+rm -rf dist
+# delete old dist directory
+rm -rf dist
+
 # build
 vuepress build
 
