@@ -6,7 +6,8 @@ module.exports = {
 	themeConfig: {
 		logo: '/assets/logo.png',
 		nav: [
-			{ text: 'Deploy the bot', link: '/deploy-the-bot.md' }
+			{ text: 'Deploy the bot', link: '/deploy-the-bot.md' },
+			{ text: 'Team', link: '/team.md' },
 		]
 	}
 }
