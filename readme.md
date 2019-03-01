@@ -13,17 +13,17 @@ footer: MIT Licensed | Copyright © 2019-present The Studio
 
 Available Commands:
 
-`!Help` Will show all the commands
+`/Help` Will show all the commands
 
-`!bal` Check your balance. You will receive a DM.
+`/bal` Check your balance. You will receive a DM.
 
-`!deposit` Check your Deposit Address. You will receive a DM.
+`/deposit` Check your Deposit Address. You will receive a DM.
 
-`!tip @userName <xDAI_Amount>/penny/nickel/dime/quarter/dollar` Send xDAI to another studio member.
+`/tip @userName <xDAI_Amount>/penny/nickel/dime/quarter/dollar` Send xDAI to another studio member.
 
-`!withdraw Comming Soon` You can withdraw to external account. Withdrawal fee is a penny.
+`/withdraw Comming Soon` You can withdraw to external account. Withdrawal fee is a penny.
 
-`!donate <xDAI_Amount>` Donate xDAI to Studio Bot to show some support.
+`/donate <xDAI_Amount>` Donate xDAI to Studio Bot to show some support.
 
 ### Mac users we will start with NodeJS
 
