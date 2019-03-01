@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://i.imgur.com/19jY3TH.png
+heroImage: /assets/logo.png
 features:
 - title: Easy to use
   details: Simple and easy to use bot to send money to their friends on Discord.
